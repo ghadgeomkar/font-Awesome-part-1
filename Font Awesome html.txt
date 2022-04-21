@@ -1,0 +1,273 @@
+
+    <!-- ============================================ * navbar * ================================================ -->
+
+
+
+
+
+    <div class="navbar">
+        <div class="logo">
+            <img src="images/logo.jpg">
+        </div>
+        <div class="list">
+            <ul>
+                <li>Start</li>
+                <li><i class="fa-solid fa-magnifying-glass"></i></li>
+                <a href="Demo_Icons.html">
+                    <li> Icons </li>
+                </a>
+                <li>Docs</li>
+                <li>Plans</li>
+                <li>Support</li>
+                <li>Blog</li>
+            </ul>
+        </div>
+        <div class="logOut">
+            <i class="fa-solid fa-right-to-bracket"></i>
+        </div>
+
+    </div>
+
+
+
+
+    <!-- ============================================ * heading msg * ================================================ -->
+
+
+    <div class="msg">
+        <img src="images/msg img.jpg">
+        <p>Font Awesome 6.1.1 is now available with a new <a href="#"> Humanitarian Icons </a> category and more. <a
+                href="#"> See everything that's new. </a></p>
+    </div>
+
+
+    <!-- ============================================ * main heading * ================================================ -->
+
+
+    <div class="main_heading">
+        <div class="main_headinh_text">
+            <div class="heading_text">
+                <h1>Take the hassle out of icons <br> in your <span> website. </span> </h1>
+                <p><strong> Font Awesome </strong> is the Internet's icon library and toolkit, used by <br> millions of
+                    designers, developers, and content creators.</p>
+                <div class="buttns">
+                    <button><i class="fa-solid fa-earth-americas"> </i>Start for Free</button>
+                    <button style="background-color: #ffd43b;"> <i class="fa-solid fa-rocket"></i>
+                        Get More with pro
+                    </button>
+                </div>
+            </div>
+            <div class="heading_video">
+                <video controls class="video">
+                    <source src="images/video.mp4" type="video/mp4" />
+                </video>
+
+            </div>
+        </div>
+
+    </div>
+
+
+
+
+
+    <!-- ============================================ * LATEST UPDATES * ================================================ -->
+
+    <div class="page_two">
+        <div class="Latest_Updates">
+
+
+            <div class="Latest_Updates_text">
+                <h5> LATEST UPDATES </h5>
+                <h3>Discover what's new in <br> Font Awesome.</h3>
+                <div class="more_icons">
+                    <h4>More Icons</h4>
+                    <p>Font Awesome 6 contains over 7,000 new icons,so you're <br> sure to find what you need for
+                        your
+                        project.Plus, we've <br> redesigned most of our icons from scratch,so they're more <br>
+                        consistent
+                        and easier to use.</p>
+                </div>
+                <div class="more_style">
+                    <h4>More Styles</h4>
+                    <p>Font Awesome 6 includes five icons styles: solid, regular,<br> light, duotone, and the new THIN
+                        style — not to mention all<br> of our brand icons. And coming later in 2022 is the entirely<br>
+                        new SHARP family of styles.
+                    </p>
+                </div>
+                <div class="more_plugins">
+                    <h4>More Plugins + Packages</h4>
+                    <p>Font Awesome 6 makes it even easier to use icons where <br> you want to. More plugins and
+                        packages to match your <br> stack. Less time wrestling browser rendering.</p>
+                </div>
+                <div class="version">
+                    <div class="ver6_1_1">
+                        <p><i class="fa-solid fa-hashtag"></i> <a href="#"> Version 6.1.1 </a> </p>
+                        <p> <i class="fa-solid fa-icons"></i> <a href="#"> 16,083 Pro Icons </a> </p>
+                    </div>
+                    <div class="Categories">
+                        <p> <i class="fa-regular fa-folder"></i> <a href="#"> 68 Categories </a> </p>
+                        <p> <i class="fa-regular fa-star"></i> <a href="#"> 2,009 Free Icons </a> </p>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="Latest_Updates_icons">
+                <div class="box_one">
+                    <img src="images/icons-1.jpg">
+                    <p> New Icons in 6.1 </p>
+                </div>
+                <div class="small_icons_one">
+                    <div class="icon_small">
+                        <img src="images/icons-2.jpg">
+                        <p> New Thin Style </p>
+                    </div>
+                    <div class="icon_small  hover_effect_blue">
+                        <img src="images/icons-3.jpg">
+                        <p> Icon Upload </p>
+                    </div>
+                </div>
+                <div class="small_icons_two">
+                    <div class="icon_small hover_effect_green">
+                        <img src="images/icons-4.jpg">
+                        <p> Humanitarian Icons</p>
+                    </div>
+                    <div class="icon_small hover_effect_perpal">
+                        <img src="images/icons-5.jpg">
+                        <p> New Animations </p>
+                    </div>
+                </div>
+            </div>
+
+
+        </div>
+    </div>
+
+
+
+
+    <!-- ============================================ * brands* ================================================ -->
+
+
+
+    <div class="brand">
+        <h3> THE WEB'S DEFAULT ICON SET, USED ON OVER 200 MILLION SITES </h3>
+        <div class="brands">
+            <img src="images/brand - 1.jpg">
+            <img src="images/brand - 2.jpg">
+            <h2> NBCNEWS </h2>
+            <img src="images/brand - 4.jpg">
+            <img src="images/brand - 5.jpg">
+        </div>
+    </div>
+
+
+
+
+
+    <!-- ============================================ * page 6 * ================================================ -->
+
+
+    <div class="part_six">
+        <div class="proudly_opan_source">
+            <div class="opan_source_left_side">
+                <h3>PROUDLY OPEN SOURCE</h3>
+                <h1>Everyone gets more awesome.</h1>
+                <p>We know the pain of wrangling icons on the internet. That's why in <br> 2012, we created the first
+                    version of our open-source icons and toolkit. <br> And with the help of our subscription plan Font
+                    Awesome Pro, we've <br> built a lean icon-obsessed team who keep cranking out more icons, <br> more
+                    styles, and more services for everyone.</p>
+                <button>Explore Font Awesome Free</button>
+            </div>
+            <div class="opan_source_right_side_img">
+                <img src="images/coffee.svg">
+            </div>
+        </div>
+
+
+
+
+
+        <div class="boxses">
+            <div class="boxses_box">
+                <i class="fa-solid fa-hand-holding-heart"></i>
+                <h2> Always Free </h2>
+                <p>From the beginning, Font Awesome has <br> been free and open source. And since we're <br> creator
+                    owned
+                    and operated, we get to <br> make sure Font Awesome Free stays that <br> way.</p>
+            </div>
+            <div class="boxses_box">
+                <i class="fa-solid fa-shield"></i>
+                <h2> Always Free </h2>
+                <p>From the beginning, Font Awesome has <br> been free and open source. And since we're <br> creator
+                    owned
+                    and operated, we get to <br> make sure Font Awesome Free stays that <br> way.</p>
+            </div>
+            <div class="boxses_box">
+                <i class="fa-solid fa-rocket"></i>
+                <h2> Always Free </h2>
+                <p>From the beginning, Font Awesome has <br> been free and open source. And since we're <br> creator
+                    owned
+                    and operated, we get to <br> make sure Font Awesome Free stays that <br> way.</p>
+            </div>
+        </div>
+
+
+
+
+
+        <div class="github_text">
+            <i class="fa-brands fa-github"></i>
+            <a href="https://github.com/FortAwesome/Font-Awesome" target="blank_">Font Awesome is one of the top open
+                source projects on
+                GitHub. </a>
+        </div>
+
+    </div>
+
+
+    <!-- ============================================ * page 7 * ================================================ -->
+
+
+    <div class="icons_type">
+        <div class="icons_type_text">
+            <h3> ICON DISCOVERY </h3>
+            <h1>These ARE the icons you're looking for.</h1>
+            <p>Have you ever squandered hours scanning the dank, skeezy corners of the internet scrounging up <br> the
+                icons you need? Us too. That's why we re-engineered our icon search from the ground up with <br> ease of
+                icon findability in mind, so you can match your brand with the perfect look and feel.</p>
+            <div class="search_bar">
+                <i class="fa-solid fa-magnifying-glass"></i>
+                <input type="text" placeholder="Search 16,083 icons across 5 style + brands... ">
+            </div>
+        </div>
+
+
+        <div class="icons_type_icon_one">
+            <img src="images/smile_icon.jpg" class="blue">
+            <img src="images/strawberry_icon.png" class="purple">
+            <img src="images/A_icon.png" class="red">
+            <img src="images/crab_icon.png" class="green">
+            <img src="images/robot_icon.jpg" class="dark_blue">
+            <img src="images/all_icon.jpg" class="white">
+        </div>
+
+
+        <div class="icons_type_icon_two">
+            <img src="images/solid_icon.jpg" class="Yellow">
+            <img src="images/regular_icon.jpg" class="blue">
+            <img src="images/light_icon.jpg" class="green">
+            <img src="images/thin_icon.png" class="purple">
+            <img src="images/duotone_icon.jpg" class="navy_blue">
+        </div>
+
+
+        <div class="icons_type_icon_three">
+            <img src="images/brand_icon.jpg" class="navy_blue">
+        </div>
+
+
+
+
+    </div>
